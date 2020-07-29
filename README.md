@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Links
+
+[The Two Easiest Ways To Share Your ReactJS Project As a Widget](https://levelup.gitconnected.com/the-two-easiest-ways-to-share-your-reactjs-project-as-a-widget-971dfef66d98).
+
+[react-iframe](https://github.com/svenanders/react-iframe)
+
 ## Available Scripts
 
 In the project directory, you can run:
