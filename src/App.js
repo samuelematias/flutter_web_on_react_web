@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Iframe from 'react-iframe';
 
 function App() {
 	return (
@@ -26,6 +27,24 @@ function App() {
 </html>`,
 					}}
 				></div>
+				<Iframe
+					url="http://www.youtube.com/embed/DWcJFNfaw9c"
+					width="450px"
+					height="450px"
+					id="myId"
+					className="myClassname"
+					display="initial"
+					position="relative"
+				/>
+				<Iframe
+					url="https://reverent-saha-e7982c.netlify.app/#/"
+					width="450px"
+					height="450px"
+					id="myId"
+					className="myClassname"
+					display="initial"
+					position="relative"
+				/>
 			</header>
 		</div>
 	);
