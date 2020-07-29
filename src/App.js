@@ -22,7 +22,7 @@ function App() {
 					className="content"
 					dangerouslySetInnerHTML={{
 						__html: `<html>
-  <iframe id="iframe" src="https://samuelematias.github.io/flutter_web_dart_js/#/"><iframe>
+  <iframe id="iframe" src="https://samuelematias.github.io/flutter_web_splash_loading/"><iframe>
 </html>`,
 					}}
 				></div>
